@@ -1,5 +1,5 @@
 # Tokkio-English
-Aplicación para el aprendizaje de los verbos en ingles
+Aplicación para el aprendizaje de los verbos en inglés
 
 ## Instrucciones
 - Tener instalado Rust
