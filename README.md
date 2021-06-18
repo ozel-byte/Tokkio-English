@@ -4,4 +4,5 @@ Instruciones
 
 . Rust
 Clona el repositorio, y ejecutalo con un cargo run.
-##Este programa esta en desarrollo, apena esta en su version beta
+
+## Este programa esta en desarrollo, apena esta en su version beta
