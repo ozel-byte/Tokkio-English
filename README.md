@@ -1,8 +1,8 @@
 # Tokkio-English
-Aplicacion para el aprendizaje de los verbos en ingles
+Aplicación para el aprendizaje de los verbos en ingles
 
-## Instruciones
+## Instrucciones
 - Tener instalado Rust
- - Clona el repositorio, y ejecutalo con un cargo run.
+- Clona el repositorio, y ejecutalo con un cargo run.
 
-## Este programa esta en desarrollo. Esta en su version beta
+## Este programa esta en desarrollo. Esta en su versión beta
