@@ -1,6 +1,7 @@
 # Tokkio-English
 Aplicacion para el aprendizaje de los verbos
-Instruciones
+
+- Instruciones
 
 . Rust
 Clona el repositorio, y ejecutalo con un cargo run.
